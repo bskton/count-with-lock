@@ -1,0 +1,14 @@
+{
+    "name": "bskton/count-with-lock",
+    "authors": [
+        {
+            "name": "Ilya Levin",
+            "email": "bskton@gmail.com"
+        }
+    ],
+    "require": {
+        "react/event-loop": "^1.0",
+        "react/http-client": "^0.5.9",
+        "react/child-process": "^0.5.2"
+    }
+}
